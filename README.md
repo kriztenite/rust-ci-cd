@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+[![Tests](https://github.com/kriztenite/rust-ci-cd/actions/workflows/tests.yml/badge.svg)](https://github.com/kriztenite/rust-ci-cd/actions/workflows/tests.yml)
 
-## References
+# A Rust CI Pipeline
+Tests for Rust code with Github Actions
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
